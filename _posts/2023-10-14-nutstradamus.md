@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Jekyll!"
-date: 2023-10-14T12:00:00-16:00
+date: 2023-10-14T00:00:00-04:00
 categories:
   - Project
 tags:
