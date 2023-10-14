@@ -4,7 +4,9 @@ date: 2023-10-14T00:00:00-04:00
 categories:
   - Project
 tags:
-  - SWE, Design, Java
+  - SWE
+  - Design
+  - Java
 ---
 
 For our final project in UC Berkeley's CS61B (Data Structures and Algorithms), my friend Evan Pfeifer and I were tasked with building an arcade game essentially from scratch using Java. We were given a free hand for the design and implementation components and provided with only an engine to render tiles.
