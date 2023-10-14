@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JND
+title: Jason Noah Diwa
 email: diwajason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jason Noah Diwa's personal website.
@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jason Noah Diwa"
-  avatar : "/assets/images/me-and-tibbs.jpg"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "Hi, I'm Jason. I'm an aspiring software engineer with a passion for using technology to advance social good."
   links:
     - label: "Website"
