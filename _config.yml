@@ -17,6 +17,7 @@ title: Jason Noah Diwa
 email: diwajason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jason Noah Diwa's personal website.
+url: "https://jdiwa.github.io/website"
 twitter_username: username
 github_username: jdiwa
 minimal_mistakes_skin: dark

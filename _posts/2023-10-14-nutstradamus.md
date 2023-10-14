@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Nutstradamus - Arcade Game"
 date: 2023-10-14T00:00:00-04:00
 categories:
   - Project
