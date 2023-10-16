@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jason Noah Diwa
+name: Jason Noah Diwa
 email: diwajason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jason Noah Diwa's personal website.
-baseurl: "/website"
 url: "https://jdiwa.github.io"
 twitter_username: username
 github_username: jdiwa
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Noah Diwa"
-  avatar : "/website/assets/images/headshot.jpg"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "Hi, I'm Jason. I'm an aspiring software engineer with a passion for using technology to advance social good."
   links:
     - label: "Website"
