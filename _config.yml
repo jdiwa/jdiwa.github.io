@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Noah Diwa"
-  avatar : {{ site.baseurl }}/assets/images/headshot.png
+  avatar : /assets/images/me-and-tibbs.JPG
   bio    : "Hi, I'm Jason. I'm an aspiring software engineer with a passion for using technology to advance social good."
   links:
     - label: "Website"
