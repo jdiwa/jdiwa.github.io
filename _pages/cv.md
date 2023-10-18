@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "My updated CV."
 ---
 
-![Resume](/assets/images/me-and-tibbs.JPG)
+<object data="{{ site.url }}{{ site.baseurl }}/assets/images/cv/data-resume.pdf" width="1000" height="1000" type="application/pdf"></object>
