@@ -1,6 +1,10 @@
 ---
-title: "Teaching Bitches How To Swim: Death Grips’ “Hacker” and the Age of Digital Conformity   "
+title: "Teaching Bitches How To Swim: Death Grips’ “Hacker” and the Age of Digital Conformity"
 date: 2022-11-3T00:00:00-04:00
+tagline: " "
+header:
+  overlay_image: /assets/images/posts/dg-article/hacker-art.jpg
+  caption: "image cerdit: [**@hyunmin.png**](https://www.instagram.com/hyunmin.hv/)"
 categories:
   - Article
 tags:
