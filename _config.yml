@@ -62,8 +62,8 @@ author:
   avatar : /assets/images/me-and-tibbs.JPG
   bio    : "Hi, I'm Jason. I'm an aspiring software engineer with a passion for using technology to advance social good."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
