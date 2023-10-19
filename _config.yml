@@ -62,36 +62,21 @@ author:
   avatar : /assets/images/me-and-tibbs.JPG
   bio    : "Hi, I'm Jason. I'm an aspiring software engineer with a passion for using technology to advance social good."
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:diwajason@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jasondiwa/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jdiwa"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jdiwa"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
